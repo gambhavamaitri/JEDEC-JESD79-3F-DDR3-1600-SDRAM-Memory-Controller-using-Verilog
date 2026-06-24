@@ -1,6 +1,4 @@
-// ============================================
-// design.sv — FIXED
-// bank_machine + bank_scheduler
+
 
 `include "ddr3_params.v"
 
