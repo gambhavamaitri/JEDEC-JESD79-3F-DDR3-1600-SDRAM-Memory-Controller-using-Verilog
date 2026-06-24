@@ -3,7 +3,6 @@
 `include "ddr3_params.v"
 
 // ============================================
-// bank_machine — FIXED
 // ============================================
 module bank_machine (
     input  wire clk,
